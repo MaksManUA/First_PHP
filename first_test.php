@@ -1,6 +1,6 @@
 <?php
 
-    require_once("utils.php");
+    require("utils.php");
 
     /**
      * Function receives an array with integer numbers,
